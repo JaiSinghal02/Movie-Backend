@@ -1,0 +1,2 @@
+This is a readme file
+This public folder severs static files like css,img,txt using the app.use(exp.static('./public)) command
